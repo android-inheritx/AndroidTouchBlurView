@@ -1,5 +1,8 @@
 # AndroidTouchBlurView
 
+## Description
+This demo is used for bulring images on touch.
+
 ## Screenshots
 <img src="screenshots/device-2019-11-19-185836.png" height="500em" /> <img src="screenshots/device-2019-11-19-185854.png" height="500em" />
 
